@@ -1,0 +1,22 @@
+[{
+        "id": 1,
+        "name": "Figurine Dragon 3D",
+        "description": "Une figurine de dragon imprimée en 3D, idéale pour la décoration ou le jeu.",
+        "price": 25.99,
+        "image": "images/dragon.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Support Téléphone 3D",
+        "description": "Support de téléphone portable imprimé en PLA, solide et design.",
+        "price": 9.99,
+        "image": "images/support_telephone.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Boîte à bijoux 3D",
+        "description": "Boîte à bijoux personnalisée, imprimée en 3D, plusieurs couleurs disponibles.",
+        "price": 15.50,
+        "image": "images/boite_bijoux.jpg"
+    }
+]
